@@ -1,5 +1,10 @@
 
 # UI-UX-Design
+## week-2
+
+[foodtruck website](https://melati5.github.io/UI-UX-Design/)
+
+## week-1
 
 Zeynep's Design (group-3)
 
